@@ -128,7 +128,7 @@ If you use this dataset or method, please cite our paper:
 
 ## 📧 Contact
 For questions, please reach out:
-📩 Muhammad Saif Ullah Khan – [saifkhichi96](https://github.com/saifkhichi96)
+📩 Tahira Shehzadi – [tahirashehzadi](https://tahirashehzadi.github.io)
 
 ## License
 
